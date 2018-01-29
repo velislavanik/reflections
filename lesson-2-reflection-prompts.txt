@@ -1,7 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+ 5. It creates .git directory with one branch master.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	8. It's a place between working directory and repository where we place the files we decide to move from one to another
 
 How can you use the staging area to make sure you have one commit per logical
 change?
