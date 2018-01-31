@@ -1,6 +1,8 @@
 When would you like to create a remote repository rather than keeping all your work local?
-To share, if someone else also work on the same project
+  To share, if someone else also work on the same project
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-to control which change to share or not
+  to control which change to share or not
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-close is used only from local to local and from local to GitHub, fork between GitHub accounts
+  close is used only from local to local and from local to GitHub, fork between GitHub accounts
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  having a copy give a chance to check differences locally and merge and remove conflicts before pushing n GitHub
