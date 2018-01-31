@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
   close is used only from local to local and from local to GitHub, fork between GitHub accounts
 What is the benefit of having a copy of the last known state of the remote stored locally?
   having a copy give a chance to check differences locally and merge and remove conflicts before pushing n GitHub
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ I guess I shall send every file to another person to check and merge but the communication would be harder
